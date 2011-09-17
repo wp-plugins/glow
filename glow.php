@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Glow Javascript 
+Plugin Name: Glow Javascript Library
 Plugin URI: http://www.ramoonus.nl/wordpress/glow/
 Description: This plugin adds BBCs Glow Javascript library to your set-up.
 Version: 1.7.7
