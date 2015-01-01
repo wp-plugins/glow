@@ -4,7 +4,7 @@ Donate link: http://www.ramoonus.nl
 Tags: Glow, javascript, bbc, 
 Requires at least: 3.9
 Tested up to: 4.1
-Stable tag: 1.7.7
+Stable tag: 2.0.0-beta1
 
 This plugin adds BBCs Glow Javascript library to your set-up.
 
